@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{56C5D9AD-0C0E-45CD-9F5E-E5A7FE966FC6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NisargPatelChat/Program.cs">
+    <Files>
+      <File FileName="NisargPatelChat/Hubs/ChatHub.cs" Line="14" Column="1" />
+      <File FileName="NisargPatelChat/Program.cs" Line="17" Column="1" />
+      <File FileName="NisargPatelChat/Startup.cs" Line="63" Column="55" />
+      <File FileName="NisargPatelChat/Pages/Index.razor" Line="61" Column="12" />
+      <File FileName="NisargPatelChat/Models/UserMessage.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NisargPatelChat" expanded="True">
+            <Node name="NisargPatelChat" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NisargPatelChat PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
